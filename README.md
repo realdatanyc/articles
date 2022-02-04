@@ -1,6 +1,8 @@
 # articles
 Articles for reference
 
+[Apartment Construction 2021 - NAR](https://www.nar.realtor/blogs/economists-outlook/commercial-weekly-sunbelt-and-mountain-metro-areas-undergoing-the-most-intense-apartment)
+
 [NYC comeback - The Spirit | Westsider](http://www.westsidespirit.com/news/we-are-ready-for-a-major-comeback-XX1918451)
 
 [long island city - ny times](https://www.nytimes.com/2021/10/18/nyregion/long-island-city-asian-population.html)
